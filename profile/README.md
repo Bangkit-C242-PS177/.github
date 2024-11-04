@@ -18,7 +18,7 @@
           <td>Universitas Nurdin Hamzah</td>
           <td>
               <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+              <a href="https://github.com/AGUN1505"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
@@ -28,7 +28,7 @@
           <td>Universitas Nurdin Hamzah</td>
           <td>
               <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+              <a href="https://github.com/vetewe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
@@ -38,7 +38,7 @@
           <td>STMIK Widya Pratama</td>
           <td>
               <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+              <a href="https://github.com/JAUZA7ev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
@@ -48,7 +48,7 @@
           <td>STMIK Widya Pratama</td>
           <td>
               <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+              <a href="https://github.com/WanodyaHapsari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
@@ -58,7 +58,7 @@
           <td>Universitas Pembangunan Nasional Veteran Jawa Timur</td>
           <td>
               <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+              <a href="https://github.com/AlbiAkhsanul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
@@ -68,7 +68,7 @@
           <td>Universitas Pembangunan Nasional Veteran Jawa Timur</td>
           <td>
               <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+              <a href="https://github.com/mikhail-karim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@
           <td>Universitas Komputer Indonesia</td>
           <td>
               <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+              <a href="https://github.com/Muzhoffar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
       </tbody>
