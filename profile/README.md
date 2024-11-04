@@ -17,7 +17,7 @@
           <td>Mobile Development</td>
           <td>Universitas Nurdin Hamzah</td>
           <td>
-              <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/agun-firmansyah-715a762a9/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/AGUN1505"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -27,7 +27,7 @@
           <td>Mobile Development</td>
           <td>Universitas Nurdin Hamzah</td>
           <td>
-              <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/vira-tiara-witri-264b95321/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/vetewe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -37,7 +37,7 @@
           <td>Cloud Computing</td>
           <td>STMIK Widya Pratama</td>
           <td>
-              <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/jgzaidan/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/JAUZA7ev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -47,7 +47,7 @@
           <td>Cloud Computing</td>
           <td>STMIK Widya Pratama</td>
           <td>
-              <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/wanadya/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/WanodyaHapsari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -57,7 +57,7 @@
           <td>Machine Learning</td>
           <td>Universitas Pembangunan Nasional Veteran Jawa Timur</td>
           <td>
-              <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/albi-akhsanul-hakim/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/AlbiAkhsanul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -67,7 +67,7 @@
           <td>Machine Learning</td>
           <td>Universitas Pembangunan Nasional Veteran Jawa Timur</td>
           <td>
-              <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/mikhail-karim-9b7824268/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/mikhail-karim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -77,7 +77,7 @@
           <td>Machine Learning</td>
           <td>Universitas Komputer Indonesia</td>
           <td>
-              <a href=""><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/rifqi-sm/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/Muzhoffar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
