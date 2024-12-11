@@ -105,6 +105,7 @@
             <td rowspan="4">Machine Learning</td>
             <td>Git/GitHub</td>
             <td rowspan="2">
+                  The Skin Disease Classification Dataset from Kaggle.com is used to train the Skin Conditions Model to identify facial features associated with specific skin conditions, such as acne and eye bags.
             </td>
         </tr>
         <tr>            
@@ -113,6 +114,9 @@
         <tr>            
             <td>Tensorflow</td>
             <td rowspan="2">
+                  The Human Face Dataset, also from Kaggle.com, is utilized to train the Skin Conditions Model to recognize the features of a face without skin conditions, serving as a baseline for normal skin.
+
+The Oily, Dry, and Normal Skin Types Dataset, sourced from Kaggle.com, is employed to train the Skin Type Model. This dataset helps the model differentiate facial textures associated with three primary skin types: normal, oily, and dry.
             </td>
         </tr>
         <tr>            
@@ -150,7 +154,7 @@
             <td>Google Cloud Platform</td>
         </tr>
         <tr>            
-            <td>ExpressJS Framework</td>
+            <td></td>
         </tr>
         <tr>            
             <td>Flask Framework</td>
