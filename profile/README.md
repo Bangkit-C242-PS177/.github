@@ -154,9 +154,6 @@ The Oily, Dry, and Normal Skin Types Dataset, sourced from Kaggle.com, is employ
             <td>Google Cloud Platform</td>
         </tr>
         <tr>            
-            <td></td>
-        </tr>
-        <tr>            
             <td>Flask Framework</td>
         </tr>
     </tbody>
