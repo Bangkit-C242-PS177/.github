@@ -161,10 +161,10 @@ The Oily, Dry, and Normal Skin Types Dataset, sourced from Kaggle.com, is employ
 
 <h2>Preview App 📱</h2>
 <div>
-<img src="" width="22%">
-<img src="" width="22%">
-<img src="" width="22%">
-<img src="" width="22%">
+<img src="https://github.com/AGUN1505/mokap/blob/main/mokap.jpg" width="22%">
+<img src="https://github.com/AGUN1505/mokap/blob/main/mokap%201.png" width="22%">
+<img src="https://github.com/AGUN1505/mokap/blob/main/mokap%207.png" width="22%">
+<img src="https://github.com/AGUN1505/mokap/blob/main/mokap%205.png" width="22%">
 </div>
 <h2>Mobile Development Resource 📱</h2>
 <p>see more: <a href="https://github.com/Bangkit-C242-PS177/MD">Urkins Mobile Development</a> </p>
