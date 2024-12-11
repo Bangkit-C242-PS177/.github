@@ -1,5 +1,5 @@
 # UrKins
-<p>.</p>
+<p>Your Skin, Your Solution.</p>
 
 <h2>Introduction 👋</h2>
 <p>Hi everyone! We are from C242-PS177, nice to meet you:  </p>
